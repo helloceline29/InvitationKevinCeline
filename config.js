@@ -1,7 +1,7 @@
 /* ===== PENGATURAN UNDANGAN — edit file ini saja ===== */
 const CONFIG = {
   // Paste your Google Apps Script Web App URL (see apps-script/Code.gs). Empty = demo mode (saved only in this browser).
-  rsvpEndpoint: "",
+  rsvpEndpoint: "https://script.google.com/macros/s/AKfycbxLiEtSA7hm8Xl5ZgBJU5y7vrG5-ciEwKedZffXRw9bWJM2BzJzzQ7NJWI-UoHozwEcTA/exec",
   banks: [
     { id:"mandiri", bank:"Mandiri", name:"Kevin Wang", number:"1050016204244" },
     { id:"bca",     bank:"BCA",     name:"Celine",     number:"5585008653"   }
